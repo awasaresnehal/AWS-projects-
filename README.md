@@ -26,8 +26,11 @@ The website is publicly accessible and deployed using cloud storage.
 ##  Usage
 Open the website using the S3 endpoint URL provided after deployment.
 
-## 📸 Screenshots
-(Add screenshots here)
+##  Screenshots
+<img width="1920" height="720" alt="websiterunnig" src="https://github.com/user-attachments/assets/a3bbbdc9-aa4c-436e-a1de-5e044cea8add" />
+<img width="1907" height="951" alt="s3bucket" src="https://github.com/user-attachments/assets/4fd1d0de-c495-46ea-8839-f600a37d8e15" />
+
+
 
 ##  Author
 Snehal Awasare 
